@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # django-docker
 
 This is a production-ready setup for running Django on Docker.
@@ -170,3 +171,6 @@ The project can be deployed with a single Fabric command. Make sure Fabric is in
 This builds the Docker image, pushes it to Docker Hub, pulls it on the production server, and starts a container with the production settings.
 
 Verify that your production settings (not the development settings!) are active. Navigate to `http://<ip address>/spamalot`. You should see the basic Nginx "not found" page. If you see the full Django error page, that means that `DEBUG = True`, which probably means that your production settings are not loaded.
+=======
+# nathanguenther.com
+>>>>>>> a101411b33b0710a4db6868b44f1571291e7af7b
