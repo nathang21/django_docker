@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # django-docker
 
 This is a production-ready setup for running Django on Docker.
