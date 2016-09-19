@@ -1,4 +1,4 @@
-# My Personal Website
+# Development enviorment for Django with Docker
 
 $ docker build -t nathanguenther/django-docker .
 
